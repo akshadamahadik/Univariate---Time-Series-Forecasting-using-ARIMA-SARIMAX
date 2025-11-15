@@ -126,6 +126,7 @@ This project shows how classical time series forecasting methods like ARIMA & SA
   ----------------------------------
   
 Akshada Mahadik
+
 📧 [www.linkedin.com/in/akshadamahadik-84482338a]
 
 🔗 [github.com/akshadamahadik]
