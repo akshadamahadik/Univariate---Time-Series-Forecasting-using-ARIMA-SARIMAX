@@ -79,17 +79,17 @@ Visual comparison of Actual vs Predicted values.
 **🧰 Technologies Used**
 -----------------------------------------------------------------------
 
-Python
+- Python
 
-Pandas
+- Pandas
 
-NumPy
+- NumPy
 
-Matplotlib / Seaborn
+- Matplotlib / Seaborn
 
-Statsmodels
+- Statsmodels
 
-ARIMA & SARIMAX
+- ARIMA & SARIMAX
 
 ------------------------------------------
 
@@ -105,16 +105,16 @@ The model predicts the next 12 months of sales after training on historical data
 
 This project shows how classical time series forecasting methods like ARIMA & SARIMAX can effectively predict future values for business datasets involving trend and seasonality. It can be extended to real business forecasting scenarios such as:
 
-retail sales
-demand planning
-financial forecasting
-production planning
+- retail sales
+- demand planning
+- financial forecasting
+- production planning
 
 ----------------------------------------------------------------------------------------------------
 **⭐ How to Run**
 -------------------------------------------------------
-Clone the repository
+- Clone the repository
 
-Install required libraries
+- Install required libraries
 
-Open this jupyter notebook (Time_Series_Forcasting.ipynb)
+- Open this jupyter notebook (Time_Series_Forcasting.ipynb)
