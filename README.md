@@ -12,6 +12,8 @@ This project demonstrates how to perform time series forecasting for a grocery s
 
 To forecast monthly sales for a grocery store for the next 12 months.
 
+-------------------------------------------------------------------------------------
+
 **Techniques Used**
 
 Time Series Decomposition
