@@ -118,3 +118,14 @@ This project shows how classical time series forecasting methods like ARIMA & SA
 - Install required libraries
 
 - Open this jupyter notebook (Time_Series_Forcasting.ipynb)
+  
+  ----------------------------------------------------------------
+
+  **👩‍💻 Author**
+
+  ----------------------------------
+  
+Akshada Mahadik
+📧 [www.linkedin.com/in/akshadamahadik-84482338a]
+
+🔗 [github.com/akshadamahadik]
