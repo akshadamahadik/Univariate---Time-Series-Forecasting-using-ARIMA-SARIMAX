@@ -68,22 +68,27 @@ Visual comparison of Actual vs Predicted values.
 **Project Structure**
 ----------------------------------------------------
 
-📦 Time-Series-Forecasting
-├── 📄 Time_Series_Forcasting.ipynb
-├── 📄 README.md
-├── 📄 Img
-├── 📄 requirement.txt
-└── 📊 dataset.csv (your dataset if included)
+📦 Time-Series-Forecasting<br>
+├── 📄 Time_Series_Forcasting.ipynb<br>
+├── 📄 README.md<br>
+├── 📄 Img<br>
+├── 📄 requirement.txt<br>
+└── 📊 dataset.csv (your dataset if included)<br>
 
 -----------------------------------------------------------------------
 **🧰 Technologies Used**
 -----------------------------------------------------------------------
 
 Python
+
 Pandas
+
 NumPy
+
 Matplotlib / Seaborn
+
 Statsmodels
+
 ARIMA & SARIMAX
 
 ------------------------------------------
